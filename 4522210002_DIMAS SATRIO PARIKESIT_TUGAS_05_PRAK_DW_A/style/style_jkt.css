@@ -1,0 +1,76 @@
+.logojkt{
+    width: 150px;
+    position: absolute;
+}
+
+.judul{
+   font-size: 25px;
+   position: absolute;
+   left: 150px;
+   top: 40px;
+   color:#e50c0c;
+}
+
+.regis{
+    position: absolute;
+    right: 120px;
+    top: 20px;
+    color:#e50c0c ;
+}
+
+.regis a{
+    color: #e50c0c;
+}
+
+.bahasa{
+    position: absolute;
+    right: 40px;
+    top: 10px;
+}
+
+.header2{
+    background-color: #e50c0c;
+    position: relative;
+    top: 100px;
+}
+
+
+.header2 nav ul{
+    list-style: none;
+    font-size: 100%;
+    margin: 0;
+    padding: 15;
+    display: flex;
+    color: white;
+    gap: 10px;
+    padding: 15px;
+    text-align: center ;
+    align-items: center;
+    justify-content: space-evenly;   
+    margin: auto;
+}
+
+.header2 nav ul a{
+    color: white
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.img{
+    position: relative;
+    top: 100px;
+}
+
+table{
+    background-color: rgba(255, 198, 208, 0.58);
+}
+
+h1{
+    color: e50c0c;
+}
+
+.news{
+    background-color: white;
+}
